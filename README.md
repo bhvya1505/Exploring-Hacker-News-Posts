@@ -3,4 +3,4 @@ This project involves use of beginner-level python skills to analyze two differe
 
 The original dataset is **HN_posts_year_to_Sep_26_2016.csv**. However, a simpler data set with only posts with comments has been considered for this project - **hacker_news.csv**.
 
-Refer the Jupyter Notebook file **Basics.ipynb** for more details about the project along with the codes and their explanation.
+Refer the Jupyter Notebooks file **Basics.ipynb** for more details about the project along with the codes and their explanation.
